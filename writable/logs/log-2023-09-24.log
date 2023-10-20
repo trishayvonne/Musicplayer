@@ -1,0 +1,713 @@
+CRITICAL - 2023-09-24 03:28:35 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 03:34:17 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 03:34:22 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MusicTrackController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 03:48:22 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 03:57:56 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:19:24 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:06 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:08 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:09 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:24 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:25 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:25 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:26 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:26 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:27 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:27 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:27 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 04:25:27 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:58:13 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:58:48 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:44 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:44 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:53 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:54 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:54 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 05:59:55 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:00:57 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:00:58 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:00:58 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:00:59 --> Class "App\Controllers\MusicModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:03:58 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:04:55 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:09:29 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 06:09:36 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:38:16 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:40:19 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:47:57 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(13): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:49:27 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(13): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:49:27 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(13): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:49:27 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(13): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:49:28 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(13): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:50:22 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:50:24 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:50:25 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:50:25 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:50:59 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:51:00 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:51:01 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:51:01 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:51:02 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 07:51:02 --> Undefined variable $errors
+in APPPATH\Views\upload_form.php on line 8.
+ 1 APPPATH\Views\upload_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $errors', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php', 8)
+ 2 APPPATH\Views\main.php(121): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\upload_form.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 6 APPPATH\Controllers\MusicTrackController.php(15): view('main')
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:00:40 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:00:42 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:00:42 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:00:42 --> Class "App\Model\MusicTrackModel" not found
+in APPPATH\Controllers\MusicTrackController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:06:44 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:06:45 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:43 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:44 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:44 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:44 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:45 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:08:45 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:09:45 --> Too few arguments to function App\Controllers\MusicTrackController::__construct(), 0 passed in C:\laragon\www\MusicPlayer\system\CodeIgniter.php on line 891 and exactly 1 expected
+in APPPATH\Controllers\MusicTrackController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MusicTrackController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:15:57 --> Call to undefined method CodeIgniter\Router\RouteCollection::injectService()
+in APPPATH\Config\Routes.php on line 18.
+ 1 SYSTEMPATH\Router\RouteCollection.php(339): require()
+ 2 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:16:58 --> Undefined variable $musicTracks
+in APPPATH\Views\main.php on line 145.
+ 1 APPPATH\Views\main.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicTracks', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 145)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(14): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:17:19 --> Undefined variable $musicTracks
+in APPPATH\Views\main.php on line 145.
+ 1 APPPATH\Views\main.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicTracks', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 145)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(14): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:17:20 --> Undefined variable $musicTracks
+in APPPATH\Views\main.php on line 145.
+ 1 APPPATH\Views\main.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicTracks', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 145)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(14): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:17:21 --> Undefined variable $musicTracks
+in APPPATH\Views\main.php on line 145.
+ 1 APPPATH\Views\main.php(145): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicTracks', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 145)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(14): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:32:25 --> Undefined variable $musicTracks
+in APPPATH\Views\main.php on line 146.
+ 1 APPPATH\Views\main.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicTracks', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 146)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(11): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:33:52 --> Call to undefined function form_open_multipart()
+in APPPATH\Views\upload_form.php on line 12.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH\Controllers\MusicTrackController.php(60): view('upload_form', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:35:24 --> Invalid file: "upload_form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('upload_form.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('upload_form', [], true)
+ 3 APPPATH\Controllers\MusicTrackController.php(60): view('upload_form', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->upload()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 08:58:00 --> view(): Argument #2 ($data) must be of type array, string given, called in C:\laragon\www\MusicPlayer\app\Controllers\MusicTrackController.php on line 11
+in SYSTEMPATH\Common.php on line 1176.
+ 1 APPPATH\Controllers\MusicTrackController.php(11): view('main', 'upload')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 10:03:54 --> Undefined variable $music
+in APPPATH\Views\main.php on line 146.
+ 1 APPPATH\Views\main.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $music', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 146)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(18): view('main', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 10:10:01 --> Undefined variable $music
+in APPPATH\Views\main.php on line 144.
+ 1 APPPATH\Views\main.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $music', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 144)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(18): view('main', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 10:26:41 --> Undefined array key "FilePathsgsdd"
+in APPPATH\Views\main.php on line 146.
+ 1 APPPATH\Views\main.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "FilePathsgsdd"', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 146)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\MusicTrackController.php(18): view('main', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicTrackController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicTrackController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+ERROR - 2023-09-24 12:18:04 --> mysqli_sql_exception: Column 'Name' cannot be null in C:\laragon\www\MusicPlayer\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\MusicPlayer\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pl...', 0)
+#1 C:\laragon\www\MusicPlayer\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pl...')
+#2 C:\laragon\www\MusicPlayer\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pl...')
+#3 C:\laragon\www\MusicPlayer\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pl...', Array, false)
+#4 C:\laragon\www\MusicPlayer\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\MusicPlayer\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\MusicPlayer\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\MusicPlayer\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\MusicPlayer\app\Controllers\PlaylistController.php(42): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\MusicPlayer\system\CodeIgniter.php(919): App\Controllers\PlaylistController->create()
+#10 C:\laragon\www\MusicPlayer\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlaylistController))
+#11 C:\laragon\www\MusicPlayer\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\MusicPlayer\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\MusicPlayer\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2023-09-24 12:18:04 --> Column 'Name' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `playlist` (`Name`, `CreatedAt`) VALUES (:Name:, :CreatedAt:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\PlaylistController.php(42): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\PlaylistController->create()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlaylistController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
+CRITICAL - 2023-09-24 12:28:12 --> Undefined variable $musicList
+in APPPATH\Views\main.php on line 168.
+ 1 APPPATH\Views\main.php(168): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $musicList', 'C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php', 168)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\MusicPlayer\\app\\Views\\main.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('main', [], true)
+ 5 APPPATH\Controllers\PlaylistController.php(11): view('main')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\PlaylistController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlaylistController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\MusicPlayer\\public\\index.php')
